@@ -1,0 +1,16 @@
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.1.CalcularFatorial\obj\Debug\net5.0\1.1.CalcularFatorial.csproj.AssemblyReference.cache
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.1.CalcularFatorial\obj\Debug\net5.0\1.1.CalcularFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.1.CalcularFatorial\obj\Debug\net5.0\1.1.CalcularFatorial.AssemblyInfoInputs.cache
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.1.CalcularFatorial\obj\Debug\net5.0\1.1.CalcularFatorial.AssemblyInfo.cs
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.1.CalcularFatorial\obj\Debug\net5.0\1.1.CalcularFatorial.csproj.CoreCompileInputs.cache
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.1.CalcularFatorial\bin\Debug\net5.0\1.1.CalcularFatorial.exe
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.1.CalcularFatorial\bin\Debug\net5.0\1.1.CalcularFatorial.deps.json
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.1.CalcularFatorial\bin\Debug\net5.0\1.1.CalcularFatorial.runtimeconfig.json
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.1.CalcularFatorial\bin\Debug\net5.0\1.1.CalcularFatorial.runtimeconfig.dev.json
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.1.CalcularFatorial\bin\Debug\net5.0\1.1.CalcularFatorial.dll
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.1.CalcularFatorial\bin\Debug\net5.0\ref\1.1.CalcularFatorial.dll
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.1.CalcularFatorial\bin\Debug\net5.0\1.1.CalcularFatorial.pdb
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.1.CalcularFatorial\obj\Debug\net5.0\1.1.CalcularFatorial.dll
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.1.CalcularFatorial\obj\Debug\net5.0\ref\1.1.CalcularFatorial.dll
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.1.CalcularFatorial\obj\Debug\net5.0\1.1.CalcularFatorial.pdb
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.1.CalcularFatorial\obj\Debug\net5.0\1.1.CalcularFatorial.genruntimeconfig.cache

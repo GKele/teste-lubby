@@ -1,0 +1,16 @@
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.6.CalcularDiferencaData\bin\Debug\net5.0\1.6.CalcularDiferencaData.exe
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.6.CalcularDiferencaData\bin\Debug\net5.0\1.6.CalcularDiferencaData.deps.json
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.6.CalcularDiferencaData\bin\Debug\net5.0\1.6.CalcularDiferencaData.runtimeconfig.json
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.6.CalcularDiferencaData\bin\Debug\net5.0\1.6.CalcularDiferencaData.runtimeconfig.dev.json
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.6.CalcularDiferencaData\bin\Debug\net5.0\1.6.CalcularDiferencaData.dll
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.6.CalcularDiferencaData\bin\Debug\net5.0\ref\1.6.CalcularDiferencaData.dll
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.6.CalcularDiferencaData\bin\Debug\net5.0\1.6.CalcularDiferencaData.pdb
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.6.CalcularDiferencaData\obj\Debug\net5.0\1.6.CalcularDiferencaData.csproj.AssemblyReference.cache
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.6.CalcularDiferencaData\obj\Debug\net5.0\1.6.CalcularDiferencaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.6.CalcularDiferencaData\obj\Debug\net5.0\1.6.CalcularDiferencaData.AssemblyInfoInputs.cache
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.6.CalcularDiferencaData\obj\Debug\net5.0\1.6.CalcularDiferencaData.AssemblyInfo.cs
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.6.CalcularDiferencaData\obj\Debug\net5.0\1.6.CalcularDiferencaData.csproj.CoreCompileInputs.cache
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.6.CalcularDiferencaData\obj\Debug\net5.0\1.6.CalcularDiferencaData.dll
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.6.CalcularDiferencaData\obj\Debug\net5.0\ref\1.6.CalcularDiferencaData.dll
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.6.CalcularDiferencaData\obj\Debug\net5.0\1.6.CalcularDiferencaData.pdb
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.6.CalcularDiferencaData\obj\Debug\net5.0\1.6.CalcularDiferencaData.genruntimeconfig.cache

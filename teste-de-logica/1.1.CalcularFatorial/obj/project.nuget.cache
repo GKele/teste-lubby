@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vrenpMnweA48anpovzCQkrHG3VPHe5hyILundJFMKT/OlMTE2Yj54anuKUDEOkbG7fTrHDVAP5DmKDC2Xj3AGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GeKel\\Desktop\\LUBY\\teste-de-logica\\1.1.CalcularFatorial\\1.1.CalcularFatorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GeKel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

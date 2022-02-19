@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EQYtvXocatcVa+uizwQ/JE/KG67B20JBgO4K1BshkOD0cj5/YJp7fvcSAqvyHN6YWEy4cxAoC2ynWxbyBXC7FA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GeKel\\Desktop\\LUBY\\teste-de-logica\\1.7.ObterElementosPares\\1.7.ObterElementosPares.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GeKel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

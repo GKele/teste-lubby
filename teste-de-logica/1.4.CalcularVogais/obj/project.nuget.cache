@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0YBERyk0wYSxiRrkd3d5TMJcJrmbxO15H+Ddcboqo1wt3CLUG6b/gpT0BE0XWLPo4a15nB1YotbBa23OImPeuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GeKel\\Desktop\\LUBY\\teste-de-logica\\1.4.CalcularVogais\\1.4.CalcularVogais.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GeKel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

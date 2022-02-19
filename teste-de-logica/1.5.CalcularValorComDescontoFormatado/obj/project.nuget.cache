@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dzdd1EgHaDQdRX+zDlSldmbqfhKtaWkm974RawudNnX4mqj8NZaeAOMLrh1K7MV0xYIh+LXwbt945fDnbRuWSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GeKel\\Desktop\\LUBY\\teste-de-logica\\1.5.CalcularValorComDescontoFormatado\\1.5.CalcularValorComDescontoFormatado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GeKel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

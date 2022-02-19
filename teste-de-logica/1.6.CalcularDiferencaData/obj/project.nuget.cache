@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GSJ9UXSvYJclx7ZFqFy3kUFJ2AeJc43FGSVD1Aqb7jxW7Z+YQqvSmXsUEoKNneiveL8ulKtfylzBZx1R8xM0UA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GeKel\\Desktop\\LUBY\\teste-de-logica\\1.6.CalcularDiferencaData\\1.6.CalcularDiferencaData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GeKel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

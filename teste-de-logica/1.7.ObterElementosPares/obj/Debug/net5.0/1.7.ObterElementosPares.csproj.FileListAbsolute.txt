@@ -1,0 +1,16 @@
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.7.ObterElementosPares\obj\Debug\net5.0\1.7.ObterElementosPares.csproj.AssemblyReference.cache
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.7.ObterElementosPares\obj\Debug\net5.0\1.7.ObterElementosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.7.ObterElementosPares\obj\Debug\net5.0\1.7.ObterElementosPares.AssemblyInfoInputs.cache
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.7.ObterElementosPares\obj\Debug\net5.0\1.7.ObterElementosPares.AssemblyInfo.cs
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.7.ObterElementosPares\obj\Debug\net5.0\1.7.ObterElementosPares.csproj.CoreCompileInputs.cache
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.7.ObterElementosPares\bin\Debug\net5.0\1.7.ObterElementosPares.exe
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.7.ObterElementosPares\bin\Debug\net5.0\1.7.ObterElementosPares.deps.json
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.7.ObterElementosPares\bin\Debug\net5.0\1.7.ObterElementosPares.runtimeconfig.json
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.7.ObterElementosPares\bin\Debug\net5.0\1.7.ObterElementosPares.runtimeconfig.dev.json
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.7.ObterElementosPares\bin\Debug\net5.0\1.7.ObterElementosPares.dll
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.7.ObterElementosPares\bin\Debug\net5.0\ref\1.7.ObterElementosPares.dll
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.7.ObterElementosPares\bin\Debug\net5.0\1.7.ObterElementosPares.pdb
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.7.ObterElementosPares\obj\Debug\net5.0\1.7.ObterElementosPares.dll
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.7.ObterElementosPares\obj\Debug\net5.0\ref\1.7.ObterElementosPares.dll
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.7.ObterElementosPares\obj\Debug\net5.0\1.7.ObterElementosPares.pdb
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.7.ObterElementosPares\obj\Debug\net5.0\1.7.ObterElementosPares.genruntimeconfig.cache

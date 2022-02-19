@@ -1,0 +1,16 @@
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.4.CalcularVogais\bin\Debug\net5.0\1.4.CalcularVogais.exe
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.4.CalcularVogais\bin\Debug\net5.0\1.4.CalcularVogais.deps.json
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.4.CalcularVogais\bin\Debug\net5.0\1.4.CalcularVogais.runtimeconfig.json
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.4.CalcularVogais\bin\Debug\net5.0\1.4.CalcularVogais.runtimeconfig.dev.json
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.4.CalcularVogais\bin\Debug\net5.0\1.4.CalcularVogais.dll
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.4.CalcularVogais\bin\Debug\net5.0\ref\1.4.CalcularVogais.dll
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.4.CalcularVogais\bin\Debug\net5.0\1.4.CalcularVogais.pdb
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.4.CalcularVogais\obj\Debug\net5.0\1.4.CalcularVogais.csproj.AssemblyReference.cache
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.4.CalcularVogais\obj\Debug\net5.0\1.4.CalcularVogais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.4.CalcularVogais\obj\Debug\net5.0\1.4.CalcularVogais.AssemblyInfoInputs.cache
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.4.CalcularVogais\obj\Debug\net5.0\1.4.CalcularVogais.AssemblyInfo.cs
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.4.CalcularVogais\obj\Debug\net5.0\1.4.CalcularVogais.csproj.CoreCompileInputs.cache
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.4.CalcularVogais\obj\Debug\net5.0\1.4.CalcularVogais.dll
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.4.CalcularVogais\obj\Debug\net5.0\ref\1.4.CalcularVogais.dll
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.4.CalcularVogais\obj\Debug\net5.0\1.4.CalcularVogais.pdb
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.4.CalcularVogais\obj\Debug\net5.0\1.4.CalcularVogais.genruntimeconfig.cache

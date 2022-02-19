@@ -1,0 +1,16 @@
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.5.CalcularValorComDescontoFormatado\bin\Debug\net5.0\1.5.CalcularValorComDescontoFormatado.exe
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.5.CalcularValorComDescontoFormatado\bin\Debug\net5.0\1.5.CalcularValorComDescontoFormatado.deps.json
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.5.CalcularValorComDescontoFormatado\bin\Debug\net5.0\1.5.CalcularValorComDescontoFormatado.runtimeconfig.json
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.5.CalcularValorComDescontoFormatado\bin\Debug\net5.0\1.5.CalcularValorComDescontoFormatado.runtimeconfig.dev.json
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.5.CalcularValorComDescontoFormatado\bin\Debug\net5.0\1.5.CalcularValorComDescontoFormatado.dll
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.5.CalcularValorComDescontoFormatado\bin\Debug\net5.0\ref\1.5.CalcularValorComDescontoFormatado.dll
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.5.CalcularValorComDescontoFormatado\bin\Debug\net5.0\1.5.CalcularValorComDescontoFormatado.pdb
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.5.CalcularValorComDescontoFormatado\obj\Debug\net5.0\1.5.CalcularValorComDescontoFormatado.csproj.AssemblyReference.cache
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.5.CalcularValorComDescontoFormatado\obj\Debug\net5.0\1.5.CalcularValorComDescontoFormatado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.5.CalcularValorComDescontoFormatado\obj\Debug\net5.0\1.5.CalcularValorComDescontoFormatado.AssemblyInfoInputs.cache
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.5.CalcularValorComDescontoFormatado\obj\Debug\net5.0\1.5.CalcularValorComDescontoFormatado.AssemblyInfo.cs
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.5.CalcularValorComDescontoFormatado\obj\Debug\net5.0\1.5.CalcularValorComDescontoFormatado.csproj.CoreCompileInputs.cache
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.5.CalcularValorComDescontoFormatado\obj\Debug\net5.0\1.5.CalcularValorComDescontoFormatado.dll
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.5.CalcularValorComDescontoFormatado\obj\Debug\net5.0\ref\1.5.CalcularValorComDescontoFormatado.dll
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.5.CalcularValorComDescontoFormatado\obj\Debug\net5.0\1.5.CalcularValorComDescontoFormatado.pdb
+C:\Users\GeKel\Desktop\LUBY\teste-de-logica\1.5.CalcularValorComDescontoFormatado\obj\Debug\net5.0\1.5.CalcularValorComDescontoFormatado.genruntimeconfig.cache
