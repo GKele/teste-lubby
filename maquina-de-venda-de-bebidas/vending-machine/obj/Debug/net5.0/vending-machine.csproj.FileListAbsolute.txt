@@ -1,0 +1,16 @@
+C:\Users\GeKel\Desktop\LUBY\maquina-de-venda-de-bebidas\vending-machine\bin\Debug\net5.0\vending-machine.exe
+C:\Users\GeKel\Desktop\LUBY\maquina-de-venda-de-bebidas\vending-machine\bin\Debug\net5.0\vending-machine.deps.json
+C:\Users\GeKel\Desktop\LUBY\maquina-de-venda-de-bebidas\vending-machine\bin\Debug\net5.0\vending-machine.runtimeconfig.json
+C:\Users\GeKel\Desktop\LUBY\maquina-de-venda-de-bebidas\vending-machine\bin\Debug\net5.0\vending-machine.runtimeconfig.dev.json
+C:\Users\GeKel\Desktop\LUBY\maquina-de-venda-de-bebidas\vending-machine\bin\Debug\net5.0\vending-machine.dll
+C:\Users\GeKel\Desktop\LUBY\maquina-de-venda-de-bebidas\vending-machine\bin\Debug\net5.0\ref\vending-machine.dll
+C:\Users\GeKel\Desktop\LUBY\maquina-de-venda-de-bebidas\vending-machine\bin\Debug\net5.0\vending-machine.pdb
+C:\Users\GeKel\Desktop\LUBY\maquina-de-venda-de-bebidas\vending-machine\obj\Debug\net5.0\vending-machine.csproj.AssemblyReference.cache
+C:\Users\GeKel\Desktop\LUBY\maquina-de-venda-de-bebidas\vending-machine\obj\Debug\net5.0\vending-machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GeKel\Desktop\LUBY\maquina-de-venda-de-bebidas\vending-machine\obj\Debug\net5.0\vending-machine.AssemblyInfoInputs.cache
+C:\Users\GeKel\Desktop\LUBY\maquina-de-venda-de-bebidas\vending-machine\obj\Debug\net5.0\vending-machine.AssemblyInfo.cs
+C:\Users\GeKel\Desktop\LUBY\maquina-de-venda-de-bebidas\vending-machine\obj\Debug\net5.0\vending-machine.csproj.CoreCompileInputs.cache
+C:\Users\GeKel\Desktop\LUBY\maquina-de-venda-de-bebidas\vending-machine\obj\Debug\net5.0\vending-machine.dll
+C:\Users\GeKel\Desktop\LUBY\maquina-de-venda-de-bebidas\vending-machine\obj\Debug\net5.0\ref\vending-machine.dll
+C:\Users\GeKel\Desktop\LUBY\maquina-de-venda-de-bebidas\vending-machine\obj\Debug\net5.0\vending-machine.pdb
+C:\Users\GeKel\Desktop\LUBY\maquina-de-venda-de-bebidas\vending-machine\obj\Debug\net5.0\vending-machine.genruntimeconfig.cache

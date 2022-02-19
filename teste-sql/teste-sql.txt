@@ -1,0 +1,90 @@
+--Script para criar o banco de dados
+CREATE DATABASE db_Luby
+ON PRIMARY (
+NAME = db_Luby,
+FILENAME = 'D:\dtaBase-luby\db_Luby.MDF',
+SIZE=10MB,
+MAXSIZE=15MB,
+FILEGROUWTH=10%
+)
+
+USE db_Luby
+
+--Criar a tabela:
+
+CREATE TABLE tabela_pessoa (
+    id int IDENTITY (1,1) NOT NULL PRIMARY KEY,
+    nome varchar(100),
+);
+
+CREATE TABLE tabela_evento (
+    id int IDENTITY (1,1) NOT NULL PRIMARY KEY,
+    evento varchar(50),
+    pessoa_id int FOREIGN KEY REFERENCES tabela_pessoa(id)
+);
+
+--Inserir dados nas tabelas:
+
+INSERT INTO tabela_pessoa 
+VALUES ('John Doe'), ('Jane Doe'), ('Alice Jones'), ('Boby Louis'), ('Lisa Romero');
+
+INSERT INTO tabela_evento 
+VALUES ('Evento A', 2), ('Evento B', 3), ('Evento C', 2), ('Evento D', NULL);
+
+
+
+--2.1 query relação tabela_pessoa e tabela_evento:
+
+SELECT p.id, p.nome, e.evento 
+FROM tabela_pessoa p left join tabela_evento e on (p.id = e.pessoa_id) 
+
+
+--2.2 query pessoas da 'tabela_pessoa' com sobrenome 'Doe':
+
+SELECT * FROM tabela_pessoa WHERE nome LIKE '%Doe%'
+
+
+--2.3 query para adicionar um novo evento:
+
+INSERT INTO tabela_evento VALUES ('Evento E', 5);
+Para verificar: SELECT * FROM tabela_evento WHERE evento = 'evento E'
+
+
+--2.4 query UPDATE:
+
+UPDATE tabela_evento SET pessoa_id = 1 WHERE evento = 'Evento D';
+Para verificar: SELECT * FROM tabela_evento WHERE evento = 'evento D'
+
+
+--2.5 query DELETE:
+
+DELETE FROM tabela_evento WHERE evento = 'Evento B';
+
+
+--2.6 query DELETE:
+
+DELETE tabela_pessoa WHERE id NOT IN (SELECT pessoa_id FROM tabela_evento)
+Para verificar: SELECT * FROM tabela_pessoa
+
+
+--2.7 query gerênciamento de tabelas:
+
+ALTER TABLE tabela_pessoa ADD idade int;
+Para verificar: SELECT idade FROM tabela_pessoa
+
+
+2.8 query criar tabela_telefone:
+
+    id: int (PK)
+    telefone: varchar(200)
+    pessoa_id: int(FK)
+
+CREATE TABLE tabela_telefone (
+  id int NOT NULL PRIMARY KEY IDENTITY (1,1),
+  telefone varchar(200),
+  pessoa_id int FOREIGN KEY REFERENCES tabela_pessoa(id) 
+);
+
+
+--2.10 query DROP TABLE:
+DROP TABLE tabela_telefone;

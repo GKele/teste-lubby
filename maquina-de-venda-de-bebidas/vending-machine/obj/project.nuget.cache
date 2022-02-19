@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JFSplvFWcbjX84mwE8qrkXqhNWVMXZ1p8F1eKGyZTrZOMZIL8lCEkt/CMrgop2q+X0n+9T+lYZRw0lY6cPYKEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GeKel\\Desktop\\LUBY\\maquina-de-venda-de-bebidas\\vending-machine\\vending-machine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GeKel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

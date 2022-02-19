@@ -1,0 +1,38 @@
+--Propósito--   
+1. A máquina de venda automática permitirá que o usuário faça uma seleção a partir de uma máquina de bebidas simulada;
+2. Primeiro usuário simulará a inserção de moedas;
+3. Quando tiver sido inserido dinheiro suficiente, o usuário poderá selecionar a bebida.
+
+
+--Procedimentos do Programa--  
+1. Interface do console e uso da linguagem C#;
+2. Após iniciar o programa, o usuário deve digitar um número na tela e pressione a tecla Enter para simular a entrada de dinheiro;
+3. Um menu de opções deve aparecer após o minimo de valor ser atingido;
+4. Cada bebida possui um número para seleção;
+5. Uma vez que o usuário tenha feito sua seleção, uma mensagem deve aparecer informando a abebida selecionada;
+6. Se houver, será informada a quantidade de troco a ser devolvida ao usuário;
+7. Precisone a tecla Enter para sair do programa.
+
+
+--Observações e Restrições--
+1. As únicas entradas de dinheiro válidas são R$2.00, R$5.00, R$10.00 e R$20.00;
+2. O menu só será exibido quando o valor minimo for atingido.
+
+
+--Exemplo de entrada/saída--
+Por favor, coloque o dinheiro na máquina (Aceita-se notas de R$2.00, R$5.00, R$10.00 e R$20.00):
+
+(Suponha que R$5.00 tenha sido inseridos)
+
+("----------- MENU DE OPÇÕES --------");
+("|       [1] - Água       R$1.50   |");
+("|       [2] - Coca-cola  R$4.50   |");
+("|       [3] - Suco       R$3.00   |");
+("-----------------------------------");
+
+("Selecione uma opção do menu:");
+
+(2 foi selecionado)
+Você escolheu a coca-cola.
+O seu troco é R$0,5.
+Precisone enter para sair. 
